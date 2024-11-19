@@ -128,7 +128,8 @@ Let's use the sample python script [main.py](./python/main.py) to download the [
     python main.py
     ```
 
-you may get the output like this..
+    you may get the output like this..
+
     ```
     Download start......
     s3_BUCKET_NAME : envizi-client-dataservice-us-prod
@@ -138,7 +139,6 @@ you may get the output like this..
     Downloading: client_9_6dc401d69cfe48/powerbiConversionFactors_GSIDemos_19Nov2024.csv -> ./downloaded_files/powerbiConversionFactors_GSIDemos_19Nov2024.csv
     Downloading: client_9_6dc401d69cfe48/powerbiConversion_GSIDemos_19Nov2024.csv -> ./downloaded_files/powerbiConversion_GSIDemos_19Nov2024.csv
     Downloading: client_9_6dc401d69cfe48/powerbiCurrency_GSIDemos_19Nov2024.csv -> ./downloaded_files/powerbiCurrency_GSIDemos_19Nov2024.csv
-
     ```
 
 6. Goto to the folder `./downloaded_files`and see the monthly  dataset files downloaded from the S3.
