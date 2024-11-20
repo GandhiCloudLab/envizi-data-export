@@ -1,7 +1,10 @@
-# Envizi Data Export Addon
+# Envizi Data Export AddOn
 
-This article explains about how to setup Envizi Dataflow automation for Data Export.
+This article explains about how to setup Envizi Dataflow automation to export Monthly DataSet using the Data Export AddOn.
 
+## PreRequisite
+
+Check with the Product team to enable `Data Export` AddOn in your Envizi instance.
 
 ## 1. Create Data Service for S3
 
